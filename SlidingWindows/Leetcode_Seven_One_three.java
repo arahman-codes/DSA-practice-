@@ -1,4 +1,4 @@
-package Sliding_Windows;
+package SlidingWindows;
 public class Leetcode_Seven_One_three {
     public static void main(String[] args) {
         int[] nums = {5,2,6,1,4,2,3,7,2,1,5,6,2,3,1,4,2,6,3,5,2,1,4,3,2,6,1,5,3};
